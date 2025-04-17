@@ -12,3 +12,13 @@ This project provides a minimal setup for running [n8n](https://n8n.io) — a po
 ```
 docker compose up
 ```
+
+## Accessing the UI
+
+http://localhost:5678
+
+## Stopping & Cleaning Up
+
+```
+docker-compose down -v
+```
